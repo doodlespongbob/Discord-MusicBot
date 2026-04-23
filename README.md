@@ -1,5 +1,13 @@
 <h1 align="center"><img src="./assets/logo.gif" width="30px"> Discord Music Bot <img src="./assets/logo.gif" width="30px"></h1>
 
+# 📦 | Project Archived
+
+This repository is now archived and no longer maintained.
+
+There will be no further updates, bug fixes, or support. The code will remain available for reference, learning purposes, or for anyone who wants to fork and continue development on their own.
+
+Big thanks to everyone who contributed, starred, forked, or used this project. Appreciate you all 🫶
+
 ## ✨Latest Updates
 
 v5.1 Is in development! Go check it out [HERE!](https://github.com/wtfnotavailable/Discord-MusicBot)
